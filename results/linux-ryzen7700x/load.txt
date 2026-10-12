@@ -1,0 +1,4 @@
+collatz 2.84 2.93
+particles 2.47 3.69
+words 2.62 2.20
+trees 2.65 2.40

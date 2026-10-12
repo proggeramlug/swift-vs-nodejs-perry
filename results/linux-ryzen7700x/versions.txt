@@ -1,0 +1,9 @@
+date: 2026-10-12T09:02Z
+os: Linux 6.17.0-23-generic x86_64
+cpu: AMD Ryzen 7 7700X 8-Core Processor
+node: v26.8.1
+perry: perry 0.5.1659
+perry-commit: 8d75cc43bd566587e06f08c0b68665082a712c7e (2026-10-12 10:48:37 +0200)
+perry-runtime: Oct 12 09:01
+swift: Swift version 6.3.3 (swift-6.3.3-RELEASE) (-O)
+hyperfine: hyperfine 1.20.0
