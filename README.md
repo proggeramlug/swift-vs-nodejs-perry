@@ -1,4 +1,4 @@
-# swift-vs-typescript
+# swift-vs-nodejs-perry
 
 Does idiomatic Swift "surely outperform" idiomatic TypeScript because JavaScript's types are broader and more expensive? This repo tests that claim with four small workloads. Each is written once in plain, idiomatic TypeScript and once in plain, idiomatic Swift. The TypeScript runs on **Node** (V8 JIT) and is also compiled ahead of time to native code by **[Perry](https://perryts.com)**.
 
