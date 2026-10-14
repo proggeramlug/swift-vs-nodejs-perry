@@ -1,0 +1,11 @@
+distinct words: 1100
+talo 33832
+pevo 33643
+ruru 33631
+rune 33628
+tavo 33613
+rulo 33611
+peta 33604
+mimi 33601
+lope 33596
+zipe 33591
